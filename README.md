@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahil A Gowda</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate  developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilgowda&label=Profile%20views&color=0e75b6&style=flat" alt="sahilgowda" /> </p>
 
-- 🌱 I’m currently learning **Java,Python,JavaScript**
+- 🌱 I’m currently learning **Java,python**
 
 - 📫 How to reach me **sahilgowda204@gmail.com**
 
